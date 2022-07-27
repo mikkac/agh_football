@@ -160,4 +160,10 @@ cython_debug/
 #.idea/
 
 # Project specific
-data/
+data/knock
+data/whistles
+
+
+azure_keys.py
+
+.vscode
